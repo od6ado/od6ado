@@ -10,7 +10,7 @@
 |---|---|---|
 | **0xPeaky** | Autonomous AI crypto trading bot — 3 agents (Peaky, Scout, Guardian) trading Binance Perpetual Futures | 🟢 Live |
 | **Quari** | AI-powered social media automation platform — auto-generates and posts daily content for businesses via Instagram Graph API | 🟢 Live |
-| **Africa Trade Intelligence Layer** | AI market intelligence platform for African commodity exporters — EUDR compliance checker as the MVP wedge | 🔵 Discovery |
+| **Africa Trade Intelligence Layer** | In progress | 🔵 Discovery |
 | **Alpha Agent** | AI-powered on-chain analytics — natural language interface for blockchain activity and market signals | 🟢 Live |
 | **Froska** | Meme-native AI + on-chain creativity platform — AI-generated content anchored on-chain as data tokens | 🟢 Live |
 
