@@ -1,6 +1,6 @@
 In the far reaches of African trade, only data survives.
 
-Building Africa Trade Intelligence — export compliance and 
+Building Africa Trade Intelligence export compliance and 
 market intelligence for commodity exporters on the continent.
 
 Turning information asymmetry into unfair advantage, 
